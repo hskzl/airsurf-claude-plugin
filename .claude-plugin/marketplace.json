@@ -1,0 +1,6 @@
+{
+  "name": "airsurf",
+  "owner": { "name": "Airsurf Software Pte. Ltd.", "url": "https://airsurf.app" },
+  "plugins": [ { "name": "airsurf", "source": "./", "description": "Your team's docs, issues, projects and designs in Claude Code." } ],
+  "description": "Airsurf plugins for Claude Code: your team's docs, issues and projects."
+}

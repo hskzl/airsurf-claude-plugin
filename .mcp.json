@@ -1,0 +1,1 @@
+{ "mcpServers": { "airsurf": { "type": "http", "url": "https://airsurf.app/api/v1/eco/mcp" } } }
