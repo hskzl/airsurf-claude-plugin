@@ -3,10 +3,24 @@
   "displayName": "Airsurf",
   "version": "1.0.0",
   "description": "One shared context for all your AI tools: your team's docs, issues, projects, calendar and designs in Airsurf. Pull a project's context before you work, do anything in Airsurf from Claude Code, and save what was decided.",
-  "author": { "name": "Airsurf Software Pte. Ltd.", "url": "https://airsurf.app" },
+  "author": {
+    "name": "Airsurf Software Pte. Ltd.",
+    "url": "https://airsurf.app"
+  },
   "homepage": "https://airsurf.app/developers/ecosystem#mcp",
   "repository": "https://github.com/hskzl/airsurf-claude-plugin",
   "license": "MIT",
-  "keywords": ["docs", "issues", "projects", "wiki", "mcp", "pull-requests", "context"],
-  "privacyPolicyUrl": "https://airsurf.app/legal/privacy"
+  "keywords": [
+    "docs",
+    "issues",
+    "projects",
+    "wiki",
+    "mcp",
+    "pull-requests",
+    "context"
+  ],
+  "privacyPolicyUrl": "https://airsurf.app/legal/privacy",
+  "documentationUrl": "https://airsurf.app/developers/ecosystem#mcp",
+  "supportUrl": "https://airsurf.app/support",
+  "termsOfServiceUrl": "https://airsurf.app/legal/terms"
 }
